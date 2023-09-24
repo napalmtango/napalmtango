@@ -2,7 +2,7 @@ Hello, I’m @napalmtango
 
 I LOVE web development.
 
-I’m also interested in art, music, dinosaurs, astronomy (the study of stars and the universe)
+I’m also interested in art, music, dinosaurs, and astronomy (the study of stars and the universe)<br>
 I’m currently learning html, css, javascript, sass and UX
 
 
