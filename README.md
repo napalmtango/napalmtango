@@ -1,4 +1,4 @@
-Hello, I’m @napalmtango
+Hello, my name is John.
 
 I LOVE web development.
 
